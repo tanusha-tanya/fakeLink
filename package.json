@@ -1,0 +1,22 @@
+{
+  "name": "fakelink",
+  "version": "1.0.0",
+  "description": "the test project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanusha-tanya/fakeLink.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanusha-tanya/fakeLink/issues"
+  },
+  "homepage": "https://github.com/tanusha-tanya/fakeLink#readme",
+  "dependencies": {
+    "serve": "^11.2.0"
+  }
+}
